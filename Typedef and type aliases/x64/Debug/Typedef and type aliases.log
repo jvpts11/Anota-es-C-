@@ -1,0 +1,3 @@
+﻿  Typedef and type aliases.cpp
+C:\Users\jvpts11\Documents\GitHub\Trabalho_Interface_SQL\CoisasEmCmaismais\Typedef and type aliases\Typedef and type aliases.cpp(7,41): warning C4091: '': ignorado à esquerda de 'std::vector<std::pair<std::string,int>,std::allocator<std::pair<std::string,int>>>' quando nenhuma variável é declarada
+  Typedef and type aliases.vcxproj -> C:\Users\jvpts11\Documents\GitHub\Trabalho_Interface_SQL\CoisasEmCmaismais\x64\Debug\Typedef and type aliases.exe
