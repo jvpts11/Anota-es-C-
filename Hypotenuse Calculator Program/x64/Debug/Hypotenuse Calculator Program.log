@@ -1,4 +1,4 @@
 ﻿  Hypotenuse Calculator Program.cpp
-C:\Users\jvpts11\Documents\GitHub\Trabalho_Interface_SQL\CoisasEmCmaismais\Hypotenuse Calculator Program\Hypotenuse Calculator Program.cpp(9,19): warning C4244: 'return': conversão de 'double' para 'float', possível perda de dados
-C:\Users\jvpts11\Documents\GitHub\Trabalho_Interface_SQL\CoisasEmCmaismais\Hypotenuse Calculator Program\Hypotenuse Calculator Program.cpp(13,20): warning C4244: 'return': conversão de 'double' para 'float', possível perda de dados
-  Hypotenuse Calculator Program.vcxproj -> C:\Users\jvpts11\Documents\GitHub\Trabalho_Interface_SQL\CoisasEmCmaismais\x64\Debug\Hypotenuse Calculator Program.exe
+C:\Users\jvpts11\Documents\GitHub\Anota-es-C-\Hypotenuse Calculator Program\Hypotenuse Calculator Program.cpp(10,19): warning C4244: 'return': conversão de 'double' para 'float', possível perda de dados
+C:\Users\jvpts11\Documents\GitHub\Anota-es-C-\Hypotenuse Calculator Program\Hypotenuse Calculator Program.cpp(14,20): warning C4244: 'return': conversão de 'double' para 'float', possível perda de dados
+  Hypotenuse Calculator Program.vcxproj -> C:\Users\jvpts11\Documents\GitHub\Anota-es-C-\x64\Debug\Hypotenuse Calculator Program.exe

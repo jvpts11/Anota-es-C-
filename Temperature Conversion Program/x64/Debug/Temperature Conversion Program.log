@@ -1,8 +1,8 @@
 ﻿  Temperature Conversion Program.cpp
-C:\Users\jvpts11\Documents\GitHub\Anota-es-C-\Temperature Conversion Program\Temperature Conversion Program.cpp(13,46): warning C4305: 'inicializando': truncamento de 'double' para 'float'
-C:\Users\jvpts11\Documents\GitHub\Anota-es-C-\Temperature Conversion Program\Temperature Conversion Program.cpp(24,64): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
-C:\Users\jvpts11\Documents\GitHub\Anota-es-C-\Temperature Conversion Program\Temperature Conversion Program.cpp(33,45): warning C4305: 'inicializando': truncamento de 'double' para 'float'
-C:\Users\jvpts11\Documents\GitHub\Anota-es-C-\Temperature Conversion Program\Temperature Conversion Program.cpp(44,40): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
-C:\Users\jvpts11\Documents\GitHub\Anota-es-C-\Temperature Conversion Program\Temperature Conversion Program.cpp(82,68): warning C4244: 'argumento': conversão de 'double' para 'int', possível perda de dados
-C:\Users\jvpts11\Documents\GitHub\Anota-es-C-\Temperature Conversion Program\Temperature Conversion Program.cpp(85,68): warning C4244: 'argumento': conversão de 'double' para 'int', possível perda de dados
+C:\Users\jvpts11\Documents\GitHub\Anota-es-C-\Temperature Conversion Program\Temperature Conversion Program.cpp(19,46): warning C4305: 'inicializando': truncamento de 'double' para 'float'
+C:\Users\jvpts11\Documents\GitHub\Anota-es-C-\Temperature Conversion Program\Temperature Conversion Program.cpp(30,64): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\jvpts11\Documents\GitHub\Anota-es-C-\Temperature Conversion Program\Temperature Conversion Program.cpp(42,45): warning C4305: 'inicializando': truncamento de 'double' para 'float'
+C:\Users\jvpts11\Documents\GitHub\Anota-es-C-\Temperature Conversion Program\Temperature Conversion Program.cpp(53,40): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\jvpts11\Documents\GitHub\Anota-es-C-\Temperature Conversion Program\Temperature Conversion Program.cpp(94,68): warning C4244: 'argumento': conversão de 'double' para 'int', possível perda de dados
+C:\Users\jvpts11\Documents\GitHub\Anota-es-C-\Temperature Conversion Program\Temperature Conversion Program.cpp(97,68): warning C4244: 'argumento': conversão de 'double' para 'int', possível perda de dados
   Temperature Conversion Program.vcxproj -> C:\Users\jvpts11\Documents\GitHub\Anota-es-C-\x64\Debug\Temperature Conversion Program.exe
