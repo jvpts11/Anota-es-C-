@@ -1,12 +1,18 @@
 #include <iostream>
 
+/*
+
+variables and data types works just like in C
+
+*/
+
 int main()
 {
 
     int x; //declaration
     x = 5; // Atribution
-    int y = 6;
-    int sum = x + y;
+    int y = 6; // i can do this type of atribution
+    int sum = x + y; //i can do it too
 
     //Data types:
 
@@ -27,10 +33,18 @@ int main()
     char grade = 'A';
     char initial = 'B';
 
-    //booleans
+    /*
+    
+    one thing that makes c++ a gigachad language is the fact that it have booleans, so, here you won't need to import
+    a library to handle booleans or make a struct to handle this type of thing and potentially don't waste memory like
+    we would in the not good C
+    
+    */
 
     bool isStudent = false;
     bool isPowered = true;
+    //this is better because i'm already saying to the compiler that it just can assume two states or just one bit of space
+    //instead of using a define because not using bool type can potentially lead to memory wastage
 
     //strings
 
@@ -39,7 +53,7 @@ int main()
 
 
     // displaying variables:
-    std::cout << x << '\n'; //É possível adicionar um \n assim também: std::cout << x + '\n';
+    std::cout << x << '\n'; //it's possible use the \n like this too: std::cout << x + '\n';
     std::cout << y << '\n';
     std::cout << sum << '\n';
 
